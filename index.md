@@ -11,5 +11,5 @@ Ryan Leon is an aspiring cybersecurity analyst at the University of Central Flor
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
-- [Instructions](instructions.md)
+- [Instructions](instructions.html)
 - [Proposal](proposal.md)
